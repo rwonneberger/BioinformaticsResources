@@ -1,9 +1,2 @@
 name: "BioinformaticsResources"
-navbar:
-  title: "BioinformaticsResources"
-  left:
-    - text: "About"
-      href: about.html
-    - text: "About me"
-      href: aboutme.html
 output_dir: docs

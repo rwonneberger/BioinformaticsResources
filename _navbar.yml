@@ -1,0 +1,13 @@
+name: "Bioinformatics Resources"
+title: "Bioinformatics Resources"
+left:
+  - text: "R tutorials"
+    href: Rtutes.html
+  - text: "Links"
+    href: links.html
+  - text: "About me"
+    href: aboutme.html
+
+right:
+  - icon: fa-github
+    href: https://github.com/rwonneberger
