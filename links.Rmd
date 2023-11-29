@@ -1,12 +1,22 @@
 ---
-title: "Links"
+title: "&nbsp;"
 
 ---
 
-# Useful links
+### Useful links
 
-## Statistics
+#### Statistics
+##### ANOVA and Mixed linear models in R
 
-## R tips and tricks
+- [A fantastic introduction to the GLMM R package that is also useful for users of lme4 or anyone who wants to run mixed models](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html)
+- [Should I treat a factor as fixed or random?](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html#should-i-treat-factor-xxx-as-fixed-or-random)
+- [lmer cheatsheet (Stackexchange.com)](https://stats.stackexchange.com/questions/13166/rs-lmer-cheat-sheet)
+- [More on mixed models in R](https://cncm.som.uci.edu/lmem-intro/)
+- [ANOVA in R](https://www.scribbr.com/statistics/anova-in-r/)
 
-## Command line
+#### R tips and tricks
+
+#### Working on the command line
+
+
+#### How to make a website like this one
